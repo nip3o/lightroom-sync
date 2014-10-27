@@ -8,7 +8,7 @@ Each computer has its own Lightroom catalog, stored and synced using Dropbox or 
 
 ## Installation
 1. Clone repo and install dependencies.
-2. Specify your catalogs in a file named `catalogs.conf`. There is a sample file in the repo to help ypu get started.
+2. Specify your catalogs in a file named `catalogs.conf`. There is a sample file in the repo to help you get started.
 
 ## Usage
 Simply run `lrsync.py`.
